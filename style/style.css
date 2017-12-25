@@ -1,0 +1,35 @@
+body{
+	font-size:1.5em;
+	background-image: url("../images/space.jpg");
+	/* Royalty-free image retrieved from https://www.flickr.com/photos/emil_95/11056752846/ */
+	background-size: cover;
+	background-repeat: repeat;
+	position: relative;
+}
+#speed{
+	width:500px;
+	height:100px;
+	margin: auto;
+}
+#field{
+	width: 75%;
+	background-color: rgba(250, 250, 250, 0.7);
+}
+.fire{
+	color:firebrick;
+}
+.banner{
+	margin: auto;
+	width: 50%;
+	height: auto;
+}
+label{
+	font-size:1.5em;
+}
+footer{
+	margin: auto;
+	bottom:0px;
+	padding:10px;
+	background-color: rgba(250, 250, 250, 0.7);
+	width:75%;
+}
